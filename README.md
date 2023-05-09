@@ -21,6 +21,10 @@ Para utilizar o analisador de números, basta abrir o arquivo index.html no seu 
 Esse é um projeto simples e básico, mas caso queira contribuir, fique à vontade para sugerir melhorias, correções ou novas funcionalidades.
 
 ---------------------
+Exemplo :
+![Screenshot_13](https://user-images.githubusercontent.com/39675368/236968658-b2bbc146-716a-48fa-9aa3-1266ede71215.png)
+
+---------------------
 
 **Number Analyzer**
 
